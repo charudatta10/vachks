@@ -73,8 +73,6 @@ work expands so as to fill the time available for its completion
 
 a component of a system should behave in a way that most users will expect it to behave, and therefore not astonish or surprise users.
 
-## Release early, release often
-
 ## Robustness principle, also known as Postel's law
 
 be conservative in what you do, be liberal in what you accept from others.
@@ -87,8 +85,6 @@ suggests choosing the least powerful computer language suitable for a given purp
 
 ## Single source of truth (SSOT)
 
-## Single version of the truth (SVOT)
-
 ## SOLID (object-oriented design)
 
 - Single responsibility principle: there should never be more than one reason for a class to change or every class should have only one responsibility.
@@ -97,8 +93,6 @@ suggests choosing the least powerful computer language suitable for a given purp
 - Dependency inversion principle: depend upon abstractions, [not] concretes.
 
 ## There's more than one way to do it
-
-## Uniform access principle
 
 ## Worse is better
 

@@ -8,3 +8,7 @@
   - [License](license.md)
 - Software
   - [Basic Principles](basic-principals.md)
+  - [Design Pattens](design_pattern.md)
+  - [Test Driven Dev](test_driven_dev.md)
+  - [Modularity](modularity.md)
+  - [Code Review](code_review.md)
