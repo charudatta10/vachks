@@ -1,4 +1,4 @@
-# vackhs
+#  vackhs
 
 <!-- Badges: Project Status GitHub -->
 ![license](https://flat.badgen.net/static/license/GPL-3.0/blue)
@@ -17,7 +17,7 @@
 ![documentation](https://flat.badgen.net/badge/docs/online/blue)
 
 <!-- Badges: Tools used -->
-`Ollama` `Lamma3`
+`OLLAMA` `LAMMA3`
 
 ## Documentation
 
@@ -25,7 +25,9 @@ Philosophy book
 
 ## Features
 
-- AI - LLM - Haiku - Sutra
+- AI
+- Haiku
+
 
 ## Getting Started
 
@@ -49,7 +51,7 @@ invoke
 
 ## Contributing
 
-Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests. [Report a bug or Request a feature](https://github.com/charudatta10/vackhs/issues)
+Contributions are welcome! Please open an issue or submit a pull request for any bugs or feature requests. [Report a bug or Request a feature](https://github.com/charudatta10/ vackhs/issues)
 
 ## COPYRIGHT NOTICE
 

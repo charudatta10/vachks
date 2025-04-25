@@ -1,17 +1,13 @@
-# {project-title}
+# vachks
 
-{project-description}
+The reader
 
-## Features
+## We discuss
 
-- 🌟 Feature One
+- 🌟 software
 
-- 🚀 Feature Two
+- 🚀 ai
 
-- 💡 Feature Three
-
-```bash
-invoke --list
-```
+- 💡 mathematics
 
 © 2025 Charudatta Korde. Some Rights Reserved. Attribution Required. Non-Commercial Use & Share-Alike.
